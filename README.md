@@ -14,7 +14,6 @@
 - 🔭 Trabalhava com vendas como SDR, mas busco entrar para a área da tecnologia.
 - 🌱 Estudando Linux e JavaScript
 - 📫 marcomafrasm@gmail.com
-- 😄 Ele/Dele
 - 🧘🏻‍♂️ Fun fact: Meditação depois de chegar da academia é a melhor coisa do mundo!
 
   <div style="display: inline_block"><br>
